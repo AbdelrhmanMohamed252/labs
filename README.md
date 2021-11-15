@@ -5,7 +5,6 @@ This project is trying to help the community to install their own lab .
 
 This is how it looks:
 
-![alt text](https://github.com/0xL1mb0/Nakerah-lab-v1/blob/master/imgs/1.png "Pic 1")
 
 Now this is what is Nakerah-lab V1 include .
 
@@ -26,13 +25,12 @@ Now this is what is Nakerah-lab V1 include .
 
 And this After install :
 
-![alt text](https://github.com/0xL1mb0/Nakerah-lab-v1/blob/master/imgs/2.png "Pic 1")
 
 ## Installation
 
 You can download Ubuntu server 2018 64 and it's the best one :
 
-[Download Ubuntu Server 64](https://releases.ubuntu.com/18.04/ubuntu-18.04.5-live-server-amd64.iso)
+[Download Ubuntu Server 64]
 
 Please note that PHP version 7.2 is require .
 
