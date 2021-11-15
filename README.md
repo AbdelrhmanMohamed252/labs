@@ -1,9 +1,4 @@
-# Nakerah-lab-v1
-
-Nakerah-lab Will make You able to install all this labs by one click , without any problems in inshallah.
-This project is trying to help the community to install their own lab .
-
-This is how it looks:
+Web application labs
 
 
 Now this is what is Nakerah-lab V1 include .
@@ -78,6 +73,3 @@ pass:password
 ```
 
 
-############################
-## Contact    Twitter     ##
-[limbo0x01](https://twitter.com/limbo0x01)
