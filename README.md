@@ -35,9 +35,9 @@ Run :
 ```
 sudo apt-get install git
 
-sudo git clone https://github.com/0xL1mb0/Nakerah-lab-v1.git
+sudo git clone https://github.com/AbdelrhmanMohamed252/labs.git
 
-cd Nakerah-lab-v1
+cd lab
 
 sudo chmod +x setup.sh
 
